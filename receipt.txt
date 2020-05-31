@@ -1,0 +1,9 @@
+............SHERIDAN'S BAGEL SHOP..........
+2019-08-09T13:01:50.139
+Item:			Quantity	
+White Bagel		1	
+Cafe au lait		1	
+Cream Cheese		
+Subtotal		2.75
+SalesTax		0.35750000000000004
+TotalCost		3.1075
